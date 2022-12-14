@@ -1,0 +1,7 @@
+baseURL = "http://example.com/"
+languageCode = "en-us"
+title = "go.funccloud.dev"
+copyright = "Copyright © 2022 Funccloud; All rights reserved."
+paginate = 5
+[params]
+    redirect = true
