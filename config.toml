@@ -1,4 +1,4 @@
-baseURL = "http://example.com/"
+baseURL = "https://go.funccloud.dev/"
 languageCode = "en-us"
 title = "go.funccloud.dev"
 copyright = "Copyright © 2022 Funccloud; All rights reserved."
